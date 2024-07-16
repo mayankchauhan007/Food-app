@@ -47,7 +47,7 @@ export const AddFood = () => {
                             alignItems: "center",
                         }}
                     >
-                        Add New Food Item
+                        Add New Food 
                     </Typography>
 
                     <TextField
